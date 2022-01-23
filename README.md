@@ -1,29 +1,23 @@
 # automatización Rentabilidad Fondos Bancolombia
-
-
+---
 Automatización rentablidad de fondos de inversión de Valores Bancolombia -Alta Convicción y Sostenible Global- con información de datos abiertos.
-
-
+---
 
 ## Resumen Ejecución Automática
-
-
+---
 
 |    | fecha_base          | fecha_ultima_ejecucion   |   total_dias_ejecucion |   total_push |   total_push_dia |
 |---:|:--------------------|:-------------------------|-----------------------:|-------------:|-----------------:|
-|  0 | 2022-01-23 00:00:00 | 2022-01-23 16:24:27      |                      0 |           10 |               10 |
-
+|  0 | 2022-01-23 00:00:00 | 2022-01-23 16:27:06      |                      0 |           11 |               11 |---
 
 ## Rentabilidad último día consultado
-
-
+---
 
 |    |   index | fecha_corte         | nombre_patrimonio   |   rentabilidad_diaria |   rentabilidad_mensual |   rentabilidad_semestral |   rentabilidad_anual |
 |---:|--------:|:--------------------|:--------------------|----------------------:|-----------------------:|-------------------------:|---------------------:|
 | 16 |    2466 | 2022-01-18 00:00:00 | SOSTENIBLE-GLOBAL   |              -34.6631 |                4.5864  |                 14.1822  |              21.5179 |
 |  0 |    2337 | 2022-01-18 00:00:00 | ALTA-CONVICCION     |              -99.5992 |               -7.62603 |                  6.72267 |              12.2304 |## Consolidado información 2022
-
-
+---
 
 |    |   index | fecha_corte         | nombre_patrimonio   |   rentabilidad_diaria |   rentabilidad_mensual |   rentabilidad_semestral |   rentabilidad_anual |
 |---:|--------:|:--------------------|:--------------------|----------------------:|-----------------------:|-------------------------:|---------------------:|
