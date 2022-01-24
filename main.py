@@ -93,7 +93,7 @@ with open("README.md", "w") as file:
     file.close()
 
 PATH_OF_GIT_REPO = '/home/ec2-user/documentos/autRentabilidadFondos/.git'
-COMMIT_MESSAGE = 'Commit Automático EC2 Nro - ' + str(NEW_TOTAL_PUSH)
+COMMIT_MESSAGE = 'Commit Automatico EC2 Nro - ' + str(NEW_TOTAL_PUSH)
 
 repo = Repo(PATH_OF_GIT_REPO)
 repo.git.add('--all')
