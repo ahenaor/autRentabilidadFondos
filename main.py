@@ -98,6 +98,4 @@ COMMIT_MESSAGE = 'Commit Automatico EC2 Nro - ' + str(NEW_TOTAL_PUSH)
 repo = Repo(PATH_OF_GIT_REPO)
 repo.git.add('--all')
 repo.index.commit(COMMIT_MESSAGE)
-origin = repo.remote(name='origin')
-origin.push()
 
