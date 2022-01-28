@@ -4,7 +4,7 @@
 ---
 |    | fecha_base          | fecha_ultima_ejecucion   |   total_dias_ejecucion |   total_push |   total_push_dia |
 |---:|:--------------------|:-------------------------|-----------------------:|-------------:|-----------------:|
-|  0 | 2022-01-23 00:00:00 | 2022-01-28 02:30:25      |                      5 |          111 |                3 |---
+|  0 | 2022-01-23 00:00:00 | 2022-01-28 03:30:14      |                      5 |          112 |                4 |---
 ## Rentabilidad último día consultado
 ---
 |    |   index | fecha_corte         | nombre_patrimonio   |   rentabilidad_diaria |   rentabilidad_mensual |   rentabilidad_semestral |   rentabilidad_anual |
